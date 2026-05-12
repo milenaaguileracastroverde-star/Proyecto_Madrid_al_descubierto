@@ -1,7 +1,10 @@
-# Proyecto_Madrid_al_descubierto
+# Proyecto_Madrid_al_descubierto 
 
 Proyecto para el concurso de reutilización de datos abiertos del Ayuntamiento de Madrid
 Madrid Al Descubierto: Análisis Inteligente de Ciudades Urbanas 🏙️📊
+
+<img width="1600" height="840" alt="portada_proyecto_madrid_al_descubierto" src="https://github.com/user-attachments/assets/e161d8d7-943a-4a28-b3c4-630e53c79bb1" />
+
 
 
 📋 __Resumen del Proyecto__
