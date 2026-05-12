@@ -3,7 +3,7 @@
 Proyecto para el concurso de reutilización de datos abiertos del Ayuntamiento de Madrid
 Madrid Al Descubierto: Análisis Inteligente de Ciudades Urbanas 🏙️📊
 
-<img width="1600" height="840" alt="portada_proyecto_madrid_al_descubierto" src="https://github.com/user-attachments/assets/e161d8d7-943a-4a28-b3c4-630e53c79bb1" />
+<img width="965" height="554" alt="Portada_proyecto_madrid_al_descubierto_2026" src="https://github.com/user-attachments/assets/4d772912-ac20-4922-b4c3-8335330088f4" />
 
 
 
