@@ -62,13 +62,13 @@ Supermanzanas Periféricas: Mejora de la habitabilidad fuera de la M-30 en punto
 
 📂 __Estructura del Repositorio__
 
-/notebooks: EDA_proyecto.ipynb - Código fuente del análisis y limpieza.
+Notebooks: EDA_proyecto.ipynb - Código fuente del análisis y limpieza.
 
-/data: Referencias a los datasets del Portal de Datos Abiertos.
+Data: Referencias a los datasets del Portal de Datos Abiertos.
 
-/docs: Memoria técnica del proyecto (Formato DIN A4).
+Docs: Memoria técnica del proyecto (Formato DIN A4).
 
-/visuals: Capturas de pantalla del Dashboard y gráficas analíticas.
+Visuals: Capturas de pantalla del Dashboard y gráficas analíticas.
 
 
 🔗 __Datos Abiertos Utilizados__
